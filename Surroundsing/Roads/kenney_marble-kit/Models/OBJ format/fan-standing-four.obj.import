@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://du2m4jivaabef"
+path="res://.godot/imported/fan-standing-four.obj-fbc78646d89ff11c8ae975c8a2c88872.mesh"
+
+[deps]
+
+files=["res://.godot/imported/fan-standing-four.obj-fbc78646d89ff11c8ae975c8a2c88872.mesh"]
+
+source_file="res://Surroundsing/Roads/kenney_marble-kit/Models/OBJ format/fan-standing-four.obj"
+dest_files=["res://.godot/imported/fan-standing-four.obj-fbc78646d89ff11c8ae975c8a2c88872.mesh", "res://.godot/imported/fan-standing-four.obj-fbc78646d89ff11c8ae975c8a2c88872.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

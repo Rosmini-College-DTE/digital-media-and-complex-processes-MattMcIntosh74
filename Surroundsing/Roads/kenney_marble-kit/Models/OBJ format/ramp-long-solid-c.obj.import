@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cu82q2o31lg4q"
+path="res://.godot/imported/ramp-long-solid-c.obj-6c383e820189d0ece2d510bae068f5ae.mesh"
+
+[deps]
+
+files=["res://.godot/imported/ramp-long-solid-c.obj-6c383e820189d0ece2d510bae068f5ae.mesh"]
+
+source_file="res://Surroundsing/Roads/kenney_marble-kit/Models/OBJ format/ramp-long-solid-c.obj"
+dest_files=["res://.godot/imported/ramp-long-solid-c.obj-6c383e820189d0ece2d510bae068f5ae.mesh", "res://.godot/imported/ramp-long-solid-c.obj-6c383e820189d0ece2d510bae068f5ae.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

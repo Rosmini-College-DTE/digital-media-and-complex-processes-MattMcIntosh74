@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b16l6fymmahsl"
+path="res://.godot/imported/support-color-four-top.obj-a509d978e244722c9df2fa116cf67038.mesh"
+
+[deps]
+
+files=["res://.godot/imported/support-color-four-top.obj-a509d978e244722c9df2fa116cf67038.mesh"]
+
+source_file="res://Surroundsing/Roads/kenney_marble-kit/Models/OBJ format/support-color-four-top.obj"
+dest_files=["res://.godot/imported/support-color-four-top.obj-a509d978e244722c9df2fa116cf67038.mesh", "res://.godot/imported/support-color-four-top.obj-a509d978e244722c9df2fa116cf67038.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

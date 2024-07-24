@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bsdad7a44228d"
+path="res://.godot/imported/support-two-middle.obj-fdddd3d7a3ea2b9ba9620e78104bffe0.mesh"
+
+[deps]
+
+files=["res://.godot/imported/support-two-middle.obj-fdddd3d7a3ea2b9ba9620e78104bffe0.mesh"]
+
+source_file="res://Surroundsing/Roads/kenney_marble-kit/Models/OBJ format/support-two-middle.obj"
+dest_files=["res://.godot/imported/support-two-middle.obj-fdddd3d7a3ea2b9ba9620e78104bffe0.mesh", "res://.godot/imported/support-two-middle.obj-fdddd3d7a3ea2b9ba9620e78104bffe0.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

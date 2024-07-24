@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cvplcvd5knrp2"
+path="res://.godot/imported/fan-standing-two.obj-5d26dcd94df192a85f4cb7597c43546f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/fan-standing-two.obj-5d26dcd94df192a85f4cb7597c43546f.mesh"]
+
+source_file="res://Surroundsing/Roads/kenney_marble-kit/Models/OBJ format/fan-standing-two.obj"
+dest_files=["res://.godot/imported/fan-standing-two.obj-5d26dcd94df192a85f4cb7597c43546f.mesh", "res://.godot/imported/fan-standing-two.obj-5d26dcd94df192a85f4cb7597c43546f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

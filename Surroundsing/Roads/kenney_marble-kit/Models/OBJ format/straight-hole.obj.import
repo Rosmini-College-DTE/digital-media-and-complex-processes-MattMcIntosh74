@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bt4ha8jag5umw"
+path="res://.godot/imported/straight-hole.obj-724ffd58d8111af1026bd50564995b88.mesh"
+
+[deps]
+
+files=["res://.godot/imported/straight-hole.obj-724ffd58d8111af1026bd50564995b88.mesh"]
+
+source_file="res://Surroundsing/Roads/kenney_marble-kit/Models/OBJ format/straight-hole.obj"
+dest_files=["res://.godot/imported/straight-hole.obj-724ffd58d8111af1026bd50564995b88.mesh", "res://.godot/imported/straight-hole.obj-724ffd58d8111af1026bd50564995b88.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

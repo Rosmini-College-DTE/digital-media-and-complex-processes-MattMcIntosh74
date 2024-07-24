@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dpfwbc3ie0qbd"
+path="res://.godot/imported/support-single-bottom.obj-9fc0589114521116e884ba53b15af44e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/support-single-bottom.obj-9fc0589114521116e884ba53b15af44e.mesh"]
+
+source_file="res://Surroundsing/Roads/kenney_marble-kit/Models/OBJ format/support-single-bottom.obj"
+dest_files=["res://.godot/imported/support-single-bottom.obj-9fc0589114521116e884ba53b15af44e.mesh", "res://.godot/imported/support-single-bottom.obj-9fc0589114521116e884ba53b15af44e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

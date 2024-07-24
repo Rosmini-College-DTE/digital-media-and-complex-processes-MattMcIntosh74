@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ba4ek3c8cqu1p"
+path="res://.godot/imported/fan-simple-two.obj-d674d05d1cf516a106252dc6d987e86f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/fan-simple-two.obj-d674d05d1cf516a106252dc6d987e86f.mesh"]
+
+source_file="res://Surroundsing/Roads/kenney_marble-kit/Models/OBJ format/fan-simple-two.obj"
+dest_files=["res://.godot/imported/fan-simple-two.obj-d674d05d1cf516a106252dc6d987e86f.mesh", "res://.godot/imported/fan-simple-two.obj-d674d05d1cf516a106252dc6d987e86f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cti6rdgx6pcj5"
+path="res://.godot/imported/helix-large-quarter-left.obj-cdce3ecabd9b2a3104343148b87c5c5f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/helix-large-quarter-left.obj-cdce3ecabd9b2a3104343148b87c5c5f.mesh"]
+
+source_file="res://Surroundsing/Roads/kenney_marble-kit/Models/OBJ format/helix-large-quarter-left.obj"
+dest_files=["res://.godot/imported/helix-large-quarter-left.obj-cdce3ecabd9b2a3104343148b87c5c5f.mesh", "res://.godot/imported/helix-large-quarter-left.obj-cdce3ecabd9b2a3104343148b87c5c5f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

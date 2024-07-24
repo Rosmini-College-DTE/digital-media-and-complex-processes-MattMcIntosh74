@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://n37qp7ne8b4u"
+path="res://.godot/imported/bend-large.obj-e3779fef3a219ebd06dc73cc5b836cef.mesh"
+
+[deps]
+
+files=["res://.godot/imported/bend-large.obj-e3779fef3a219ebd06dc73cc5b836cef.mesh"]
+
+source_file="res://Surroundsing/Roads/kenney_marble-kit/Models/OBJ format/bend-large.obj"
+dest_files=["res://.godot/imported/bend-large.obj-e3779fef3a219ebd06dc73cc5b836cef.mesh", "res://.godot/imported/bend-large.obj-e3779fef3a219ebd06dc73cc5b836cef.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

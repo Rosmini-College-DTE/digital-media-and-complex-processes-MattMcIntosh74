@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bpw6rrn83yd4q"
+path="res://.godot/imported/funnel.obj-4c6dc2023d47d78ac157bf8c410abd2c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/funnel.obj-4c6dc2023d47d78ac157bf8c410abd2c.mesh"]
+
+source_file="res://Surroundsing/Roads/kenney_marble-kit/Models/OBJ format/funnel.obj"
+dest_files=["res://.godot/imported/funnel.obj-4c6dc2023d47d78ac157bf8c410abd2c.mesh", "res://.godot/imported/funnel.obj-4c6dc2023d47d78ac157bf8c410abd2c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

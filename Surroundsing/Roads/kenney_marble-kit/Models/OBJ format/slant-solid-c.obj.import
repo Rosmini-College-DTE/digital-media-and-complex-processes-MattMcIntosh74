@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bhmxp8qdvycy4"
+path="res://.godot/imported/slant-solid-c.obj-ccde5c05f21c8e27fa3b1bb5aa5f7f06.mesh"
+
+[deps]
+
+files=["res://.godot/imported/slant-solid-c.obj-ccde5c05f21c8e27fa3b1bb5aa5f7f06.mesh"]
+
+source_file="res://Surroundsing/Roads/kenney_marble-kit/Models/OBJ format/slant-solid-c.obj"
+dest_files=["res://.godot/imported/slant-solid-c.obj-ccde5c05f21c8e27fa3b1bb5aa5f7f06.mesh", "res://.godot/imported/slant-solid-c.obj-ccde5c05f21c8e27fa3b1bb5aa5f7f06.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

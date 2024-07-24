@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ca5oec68sgs1r"
+path="res://.godot/imported/ramp-end-d.obj-91d1c6d4c06b84fb83c50eaa5b0dbfd5.mesh"
+
+[deps]
+
+files=["res://.godot/imported/ramp-end-d.obj-91d1c6d4c06b84fb83c50eaa5b0dbfd5.mesh"]
+
+source_file="res://Surroundsing/Roads/kenney_marble-kit/Models/OBJ format/ramp-end-d.obj"
+dest_files=["res://.godot/imported/ramp-end-d.obj-91d1c6d4c06b84fb83c50eaa5b0dbfd5.mesh", "res://.godot/imported/ramp-end-d.obj-91d1c6d4c06b84fb83c50eaa5b0dbfd5.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

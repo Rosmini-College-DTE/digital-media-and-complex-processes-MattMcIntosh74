@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bxyko1d7sdi7j"
+path="res://.godot/imported/tree-large.obj-a976616741c10d63456f27ba14cb0753.mesh"
+
+[deps]
+
+files=["res://.godot/imported/tree-large.obj-a976616741c10d63456f27ba14cb0753.mesh"]
+
+source_file="res://Surroundsing/Roads/kenney_marble-kit/Models/OBJ format/tree-large.obj"
+dest_files=["res://.godot/imported/tree-large.obj-a976616741c10d63456f27ba14cb0753.mesh", "res://.godot/imported/tree-large.obj-a976616741c10d63456f27ba14cb0753.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

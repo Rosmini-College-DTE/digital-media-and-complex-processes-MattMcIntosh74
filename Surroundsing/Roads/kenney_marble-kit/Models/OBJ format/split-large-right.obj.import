@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bi7p1qn7ir7te"
+path="res://.godot/imported/split-large-right.obj-0ac8c04c9dbef8af893f6c05dd3892a2.mesh"
+
+[deps]
+
+files=["res://.godot/imported/split-large-right.obj-0ac8c04c9dbef8af893f6c05dd3892a2.mesh"]
+
+source_file="res://Surroundsing/Roads/kenney_marble-kit/Models/OBJ format/split-large-right.obj"
+dest_files=["res://.godot/imported/split-large-right.obj-0ac8c04c9dbef8af893f6c05dd3892a2.mesh", "res://.godot/imported/split-large-right.obj-0ac8c04c9dbef8af893f6c05dd3892a2.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

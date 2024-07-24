@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cqkil88iunyxg"
+path="res://.godot/imported/cross.obj-951fe573fdd69adf4a0c8244421eabdb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/cross.obj-951fe573fdd69adf4a0c8244421eabdb.mesh"]
+
+source_file="res://Surroundsing/Roads/kenney_marble-kit/Models/OBJ format/cross.obj"
+dest_files=["res://.godot/imported/cross.obj-951fe573fdd69adf4a0c8244421eabdb.mesh", "res://.godot/imported/cross.obj-951fe573fdd69adf4a0c8244421eabdb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

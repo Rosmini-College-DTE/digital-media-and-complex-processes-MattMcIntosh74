@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://7lopwdvjp25w"
+path="res://.godot/imported/curve-wide-solid-medium.obj-c25e2146b5b33c0d01e576018d69f78f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/curve-wide-solid-medium.obj-c25e2146b5b33c0d01e576018d69f78f.mesh"]
+
+source_file="res://Surroundsing/Roads/kenney_marble-kit/Models/OBJ format/curve-wide-solid-medium.obj"
+dest_files=["res://.godot/imported/curve-wide-solid-medium.obj-c25e2146b5b33c0d01e576018d69f78f.mesh", "res://.godot/imported/curve-wide-solid-medium.obj-c25e2146b5b33c0d01e576018d69f78f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

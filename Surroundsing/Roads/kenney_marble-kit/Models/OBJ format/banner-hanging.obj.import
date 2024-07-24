@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b0ex1is131mua"
+path="res://.godot/imported/banner-hanging.obj-59160b22f069b88a54e82e03e914f077.mesh"
+
+[deps]
+
+files=["res://.godot/imported/banner-hanging.obj-59160b22f069b88a54e82e03e914f077.mesh"]
+
+source_file="res://Surroundsing/Roads/kenney_marble-kit/Models/OBJ format/banner-hanging.obj"
+dest_files=["res://.godot/imported/banner-hanging.obj-59160b22f069b88a54e82e03e914f077.mesh", "res://.godot/imported/banner-hanging.obj-59160b22f069b88a54e82e03e914f077.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

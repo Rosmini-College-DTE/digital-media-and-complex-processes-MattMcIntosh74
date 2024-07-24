@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://3stoy2qu6aem"
+path="res://.godot/imported/s-curve-right.obj-f1800c47cd4f488cdfa09e7179fc3121.mesh"
+
+[deps]
+
+files=["res://.godot/imported/s-curve-right.obj-f1800c47cd4f488cdfa09e7179fc3121.mesh"]
+
+source_file="res://Surroundsing/Roads/kenney_marble-kit/Models/OBJ format/s-curve-right.obj"
+dest_files=["res://.godot/imported/s-curve-right.obj-f1800c47cd4f488cdfa09e7179fc3121.mesh", "res://.godot/imported/s-curve-right.obj-f1800c47cd4f488cdfa09e7179fc3121.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

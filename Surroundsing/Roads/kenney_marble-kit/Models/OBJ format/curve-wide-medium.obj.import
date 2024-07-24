@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dibsf5qyqcnab"
+path="res://.godot/imported/curve-wide-medium.obj-1cdb3982d873a384fffa996bd1e9cdca.mesh"
+
+[deps]
+
+files=["res://.godot/imported/curve-wide-medium.obj-1cdb3982d873a384fffa996bd1e9cdca.mesh"]
+
+source_file="res://Surroundsing/Roads/kenney_marble-kit/Models/OBJ format/curve-wide-medium.obj"
+dest_files=["res://.godot/imported/curve-wide-medium.obj-1cdb3982d873a384fffa996bd1e9cdca.mesh", "res://.godot/imported/curve-wide-medium.obj-1cdb3982d873a384fffa996bd1e9cdca.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
